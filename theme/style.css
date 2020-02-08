@@ -2,6 +2,6 @@ html, body {
   margin: 0;
   border: 0;
   font-size: 100%;
-  background-color: #000000;
+  background-color: rgba(50, 115, 220, 0.3);
   color: #ffffff;
 }
